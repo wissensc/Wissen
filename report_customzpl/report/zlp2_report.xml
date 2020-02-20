@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<odoo>
+   <!--Report-->
+   <report id="report_zpl2" name="report_customzpl.zlp2_template" model="stock.picking" string="ZPL" report_type="qweb-text" />
+</odoo>
